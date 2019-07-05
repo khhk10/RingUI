@@ -1,5 +1,5 @@
 # RingUI
-Ring-shaped UI that can be contolled by dragging
+draggable Ring-shaped UI
 
 - enables drag control
 - changes according to the percentage
